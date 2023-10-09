@@ -1,5 +1,5 @@
 import numpy as np
-from usefull_functions import *
+from useful_functions import *
 import matplotlib.pyplot as plt
 from cell import Cell
 from point import Point

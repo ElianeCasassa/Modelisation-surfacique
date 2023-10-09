@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from itertools import combinations
 from cell import Cell
 from point import Point
-from usefull_functions import *
+from useful_functions import *
 import numpy as np
 import triangle as tr
 

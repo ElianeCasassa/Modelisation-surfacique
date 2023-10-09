@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from point import Point
-from usefull_functions import *
+from useful_functions import *
 from itertools import combinations
 from math import *
 import numpy as np
