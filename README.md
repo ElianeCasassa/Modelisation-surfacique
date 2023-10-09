@@ -4,13 +4,14 @@
 Projet réalisé et implémenté par Téva Neyrat et Eliane Casassa (MSIAM 2) pour le cours de Modélisation Surfacique en 3ème année à l'ENSIMAG en 2021/2022.
 
 <p align="center">
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/11d54984-c7fc-49a8-8e87-634c385a2389" width="600" height="350" align="center"/>
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/11d54984-c7fc-49a8-8e87-634c385a2389" width="600" height="350"/>
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/65b48ee4-9626-4b1b-83ca-49c571e74cc0" width="200" height="200"/>
 </p>
 
 Dans le milieu de l'animation et des systèmes interactifs, un utilisateur peut vouloir déplacer, plier et étirer une forme 2D ou 3D comme il le souhaite. Plusieurs outils ont été créé pour cela. Dans les années 2000, la première méthode qui s'est développée est l'utilisation d'un squelette pour manipuler la forme. L'application de cette méthode n'est pas triviale et n'est pas applicable sur toutes les surfaces (par la non-présence d'articulations). La deuxième méthode développée plus tard se nomme "déformation libre". C'est celle-ci que nous avons étudié et plus particulièrement la déformation de surfaces de type "Edition par Laplacien". Cette méthode a été introduite dans la littérature par le papier de Sorkine en 2004 (*Laplacian Surface Editing*). Cette méthode permet de déformer facilement et rapidement une surface, sans avoir à définir un squelette ou des régions manipulables, mais juste des points contraints.\\
 
 <p align="center">
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/2e690143-6b8a-48d2-b182-8f8cc0221c01" width="600" height="150" align="center"/>
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/2e690143-6b8a-48d2-b182-8f8cc0221c01" width="600" height="150"/>
 </p>
 
 
