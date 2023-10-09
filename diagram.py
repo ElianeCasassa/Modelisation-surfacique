@@ -5,7 +5,6 @@ from cell import Cell
 from point import Point
 from useful_functions import *
 import numpy as np
-import triangle as tr
 
 APPROX = 7
 
