@@ -17,9 +17,16 @@ Afin d'implémenter ces deux algorithmes nous nous sommes dans un premier temps 
 
 ## Implémentation de notre propre triangulation
 
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/183131ed-0d54-4de6-aae4-64f7094c3d2a" width="700" height="350" align="center" />
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/3c4dc820-1090-43a7-a0b8-14f436b28b63" width="700" height="350" align="center"/>
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/42ac44a0-2316-4af0-bc8f-b8d58bf50052" width="700" height="350" align="center"/>
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/60b470b8-5bc7-41eb-8efd-bf1bac5bb644" width="700" height="350" align="center"/>
-<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/fba42c72-a58f-4e93-ada6-67beb173d800" width="700" height="350" align="center"/>
+<p align="center">
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/183131ed-0d54-4de6-aae4-64f7094c3d2a" width="700" height="350"/>
+  
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/3c4dc820-1090-43a7-a0b8-14f436b28b63" width="700" height="350"/>
+
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/42ac44a0-2316-4af0-bc8f-b8d58bf50052" width="700" height="350"/>
+
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/60b470b8-5bc7-41eb-8efd-bf1bac5bb644" width="700" height="350"/>
+
+<img src="https://github.com/ElianeCasassa/Modelisation-surfacique/assets/105204079/fba42c72-a58f-4e93-ada6-67beb173d800" width="700" height="350"/>
+
+</p>
 
